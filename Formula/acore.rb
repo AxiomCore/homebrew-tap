@@ -6,6 +6,7 @@ class Acore < Formula
   version "0.0.4"
 
   def install
+    chmod 0755, "acore" 
     bin.install "acore"
   end
 
