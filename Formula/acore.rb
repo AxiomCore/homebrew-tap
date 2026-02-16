@@ -1,9 +1,9 @@
 class Acore < Formula
   desc "Acore evaluation engine for Axiom"
   homepage "https://github.com/AxiomCore/cli"
-  url "https://github.com/AxiomCore/cli/releases/download/v0.0.32/acore-macos-arm64.tar.gz"
-  sha256 "4c70b96b94a6d2282e2a049ec947cec1ce23cca0b7fc398dc416c8c0c9caf692"
-  version "0.0.32"
+  url "https://github.com/AxiomCore/cli/releases/download/v0.0.33/acore-macos-arm64.tar.gz"
+  sha256 "a0e0a0367b6d7882b32a34e78da0689ed4c79f310b7ab307570236626375223a"
+  version "0.0.33"
 
   def install
     chmod 0755, "acore" 
