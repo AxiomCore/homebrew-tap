@@ -1,9 +1,9 @@
 class Axiom < Formula
   desc "Axiom CLI"
   homepage "https://github.com/AxiomCore/cli"
-  url "https://github.com/AxiomCore/cli/releases/download/v0.0.31/axiom-macos-arm64.tar.gz"
-  sha256 "cc39b11da2a674ddc3345ce3023d2015dc0ad505843394fb1a91dd3f69e86015"
-  version "0.0.31"
+  url "https://github.com/AxiomCore/cli/releases/download/v0.0.32/axiom-macos-arm64.tar.gz"
+  sha256 "7846f32d14f4da4e904b7a4e23d81245a42a96d985a7fb0454bfc13c107a5516"
+  version "0.0.32"
 
   depends_on "acore"
 
