@@ -1,9 +1,9 @@
 class Axiom < Formula
   desc "Axiom CLI - Unified Configuration and API SDK Generator"
   homepage "https://github.com/AxiomCore/AxiomCore"
-  url "https://github.com/AxiomCore/AxiomCore/releases/download/v0.112.0/axiom-macos-arm64.tar.gz"
-  sha256 "3b487ff3971a031bf0df1081d6ff463dac640f014a30e25bd65b85bac93f33b6"
-  version "0.112.0"
+  url "https://github.com/AxiomCore/AxiomCore/releases/download/v0.113.0/axiom-macos-arm64.tar.gz"
+  sha256 "8267d58625a681bdc7010052b6b3af79d5baefe1f73dfbb6d5fdc06603db600a"
+  version "0.113.0"
 
   def install
     bin.install "axiom"
