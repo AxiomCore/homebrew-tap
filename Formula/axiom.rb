@@ -5,6 +5,9 @@ class Axiom < Formula
   sha256 "18967a99a8b572cbd6005e334354c07ddeaa133957d7feb64e0798ff41e2baba"
   version "0.147.4"
 
+  depends_on :macos
+  depends_on arch: :arm64
+
   def install
     bin.install "axiom"
   end
