@@ -17,4 +17,4 @@ Install the Acore semantic service, which gives coding agents semantic reads and
 brew install axiomcore/tap/acore-semantic
 ```
 
-[`Formula/acore-semantic.rb`](Formula/acore-semantic.rb) pins a versioned archive and checksum from [AxiomCore Releases](https://github.com/AxiomCore/AxiomCore/releases). It supports macOS on Apple silicon.
+[`Formula/acore-semantic.rb`](Formula/acore-semantic.rb) pins a versioned archive and checksum from [AxiomCore Releases](https://github.com/AxiomCore/AxiomCore/releases). It supports macOS on Apple silicon. See the [Semantic service documentation](https://docs.axiomcore.dev/semantic-service).
