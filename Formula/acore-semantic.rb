@@ -2,7 +2,7 @@ class AcoreSemantic < Formula
   desc "Semantic reads and checked edits of Acore projects for coding agents"
   homepage "https://github.com/AxiomCore/AxiomCore"
   url "https://github.com/AxiomCore/AxiomCore/releases/download/acore-semantic-v0.1.4/acore-semantic-macos-arm64.tar.gz"
-  sha256 "a0bc1b276168558482145593a4f398645e0c6c5764d6545dd52dd71bdd94cfe2"
+  sha256 "7569ac419681042c39982a0789ec2d3f6119073a5fe7fc3c8d691a1f2e641363"
   version "0.1.4"
 
   depends_on :macos
